@@ -24,7 +24,7 @@ Se puede descargar el archivo `html.zip` en local para abrir los gráficos en fo
   
   
 - [Sankey diagram](https://cgd2401.github.io/Visualization/sankey_diagram.html)
-- [Correlation matrix](https://cgd2401.github.io/Visualization/correlation_matrix.html)
+- [Correlation matrix](https://cgd2401.github.io/Visualization/correlation__matrix.html)
 - [Raincloud plot](https://cgd2401.github.io/Visualization/raincloud.html)
 
  
