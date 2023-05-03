@@ -26,4 +26,9 @@
 
 
 ## <b> Links a archivos HTML: </b>
-descargar archivo html.zip en local para abrir los gráficos en formato html
+Descargar el archivo `html.zip` en local para abrir los gráficos en formato html.
+
+También se pueden acceder mediante los siguientes enlaces: 
+- Sankey diagram: https://drive.google.com/file/d/1dTlMpG8P9s_x9AReIPOAgUVfPh0tJwPa/view?usp=share_link
+- Correlation matrix: https://drive.google.com/file/d/1-lMtdcIzReqAHvBg8VMEIjYmUXqrZpGO/view?usp=share_link
+- Raincloud plot: https://drive.google.com/file/d/1LJOb0ErsfYwevDOhrbsYs_POjMqzbCSY/view?usp=share_link
