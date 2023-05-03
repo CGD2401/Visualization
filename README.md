@@ -23,3 +23,7 @@
 1. Sankey diagram: https://raw.githubusercontent.com/plotly/plotly.js/master/test/image/mocks/sankey_energy.json
 2. Correlation Matrix: https://www.kaggle.com/datasets/imeintanis/well-log-facies-dataset
 2. Raincloud plot: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+
+
+## <b> Links a archivos HTML: </b>
+descargar archivo html.zip en local para abrir los gráficos en formato html
