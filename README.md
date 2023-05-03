@@ -18,17 +18,23 @@
 <hr>
 
 
-## <b> Links a datasets: </b>
-
-1. Sankey diagram: https://raw.githubusercontent.com/plotly/plotly.js/master/test/image/mocks/sankey_energy.json
-2. Correlation Matrix: https://www.kaggle.com/datasets/imeintanis/well-log-facies-dataset
-2. Raincloud plot: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
-
-
 ## <b> Links a archivos HTML: </b>
-Descargar el archivo `html.zip` en local para abrir los gráficos en formato html.
+Se puede descargar el archivo `html.zip` en local para abrir los gráficos en formato html o bien verlos a través de os siguientes enlaces:
 
-También se pueden acceder mediante los siguientes enlaces: 
-- Sankey diagram: https://drive.google.com/file/d/1dTlMpG8P9s_x9AReIPOAgUVfPh0tJwPa/view?usp=share_link
-- Correlation matrix: https://drive.google.com/file/d/1-lMtdcIzReqAHvBg8VMEIjYmUXqrZpGO/view?usp=share_link
-- Raincloud plot: https://drive.google.com/file/d/1LJOb0ErsfYwevDOhrbsYs_POjMqzbCSY/view?usp=share_link
+  
+  
+- [Sankey diagram](https://cgd2401.github.io/Visualization/sankey_diagram.html)
+- [Correlation matrix](https://cgd2401.github.io/Visualization/correlation_matrix.html)
+- [Raincloud plot](https://cgd2401.github.io/Visualization/raincloud.html)
+
+ 
+## <b> Link a codigo y grafico: </b>
+
+- [HTML Jupyter Notebook](https://cgd2401.github.io/Visualization/VD_PEC2_CGD.html)
+  
+## <b> Links a los datasets: </b>
+
+1. [Sankey diagram](https://raw.githubusercontent.com/plotly/plotly.js/master/test/image/mocks/sankey_energy.json)
+2. [Correlation Matrix](https://www.kaggle.com/datasets/imeintanis/well-log-facies-dataset)
+2. [Raincloud plot](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data)
+
